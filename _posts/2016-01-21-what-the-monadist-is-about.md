@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Easy advice on how to care for your pets with less time, effort and stress'
-datePublished: '2016-01-21T13:21:49.677Z'
+datePublished: '2016-01-21T13:21:49.703Z'
 dateModified: '2016-01-21T13:21:45.334Z'
 title: What the Monadist is about
 author: []
