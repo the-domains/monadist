@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-21T10:09:12.787Z'
-dateModified: '2016-01-21T10:08:50.208Z'
+description: 'Easy advice on how to care for your pets with less time, effort and stress'
+datePublished: '2016-01-21T13:21:49.677Z'
+dateModified: '2016-01-21T13:21:45.334Z'
 title: What the Monadist is about
 author: []
+sourcePath: _posts/2016-01-21-what-the-monadist-is-about.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-what-the-monadist-is-about.md
-published: true
 url: what-the-monadist-is-about/index.html
 _type: Article
 
@@ -35,6 +35,7 @@ From the root word 'Monad' which is the historical term for a unicellular organi
 Giving back. 
 
 When I started doing pet grooming as a profession in 2010, it started more as a way to make amendments on what a terrible job I have done as a dog owner.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86263771-a6ce-4fd5-8aa1-3ee910d13b00.jpg)
 
 What I wasn't prepared for is that as I worked on more and more clients, it seems that most owners had the same problems as I did - confusion from conflicting information, lack of time, behavioral and chronic health problems.
 
@@ -48,7 +49,7 @@ What I hope is that through this blog, you too would be able to discover an even
 
 **Thank you!**
 
-And do always remember that I'm always here for you as a friend. Feel free to drop me an email at to let me know if you have any feedback or questions for me! It's always a thrill to read email from my readers.
+And do always remember that I'm always here for you as a friend. Feel free to drop me an email at sunny@monadist.com to let me know if you have any feedback or questions for me! It's always a thrill to read email from my readers.
 
 Finally, I'd like to thank you for being here, for showing the interest in improving the lives of your pets. All the best and stay in touch!
 
