@@ -1,6 +1,6 @@
 name: Monadist
 favicon: null
-layout_spectrum: 0.67608
+layout_spectrum: 0.91152
 typography_spectrum: 0.423
 title: Simple Pet Care Tips For Lesser Stress
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#1e3e52'
+    - '#b1d2e1'
+    - '#d8edf8'
+    - '#72a8b2'
+    - '#487c86'
   brandStrength: 0.3125
   lightness: 0.5625
   saturation: 0.75
